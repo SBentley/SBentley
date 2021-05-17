@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ![image](https://user-images.githubusercontent.com/5394952/118469757-edf26900-b6fd-11eb-8b59-9b8bfda08513.png)
 
 <!--
 **SBentley/SBentley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
